@@ -63,7 +63,7 @@ function Hero() {
             </a>
 
             <a
-              href="www.linkedin.com/in/ghanshyam-jadhav-96b7611b9"
+                href="https://www.linkedin.com/in/ghanshyam-jadhav-96b7611b9"
               target="_blank"
             >
               <FaLinkedin />
